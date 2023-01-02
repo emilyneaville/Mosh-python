@@ -1,0 +1,5 @@
+If applicant has high income AND good credit
+    Eligible for loan
+
+If applicant has good credit and doesn't have a criminal record
+    Eligible for loan
